@@ -1,4 +1,4 @@
-# Puprak
+# Puprak:wave:	
 Tool untuk mendapatkan file ujian praktek siswa SMANKA
 
 ## Cara Menggunakan
