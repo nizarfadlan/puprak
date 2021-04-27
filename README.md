@@ -1,5 +1,5 @@
 # Puprak:wave:	
-Tool untuk mendapatkan file ujian praktek siswa SMANKA
+This is a tool to retrieve practical exam files for students at SMA N1 Kaliwungu
 
 ## Cara Menggunakan
 ### Install Python
@@ -7,7 +7,7 @@ Tool untuk mendapatkan file ujian praktek siswa SMANKA
 ```bash
 pip install requests pyfiglet bs4 prettytable
 ```
-### Jalankan Python
+### Run Script
 ```bash
 python run.py
 ```
